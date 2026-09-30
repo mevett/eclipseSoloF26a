@@ -1,6 +1,6 @@
 package eclipseSoloProjA;
 
 public class HelloWorld {
-	//comment
+	//comment more
 
 }
